@@ -1,4 +1,5 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/82228178/234865914-34c08998-61da-4cad-b930-5cb24c12688a.png)
+Hi, I'm Nguyen Trong Kim 👋
 
 <!--
 **TrongKim/TrongKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
